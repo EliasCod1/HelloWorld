@@ -1,4 +1,4 @@
-# Hello, World
+# Hello, World :rocket:
 First repository for the Git and GitHub course.
 
-What's up :U+1F643:
+What's up :globe_with_meridians:
